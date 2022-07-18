@@ -1,0 +1,27 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Vorwort}{1}{}%
+\contentsline {section}{\numberline {2}Unsere Fragestellung}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Relevanz dieser Arbeit}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Unsere These}{1}{}%
+\contentsline {section}{\numberline {3}Energieverbrauch}{1}{}%
+\contentsline {subsection}{\numberline {3.1}Energieverbrauch beim Pendeln}{1}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}ÖPNV Infrastruktur}{1}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}9€ Ticket}{2}{}%
+\contentsline {subsection}{\numberline {3.2}Energieverbrauch im Homeoffice}{2}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}eigener Energieverbrauch}{2}{}%
+\contentsline {subsection}{\numberline {3.3}Gas- und Ölimport Abhängigkeit}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Gasmangel}{2}{}%
+\contentsline {subsection}{\numberline {3.5}Energieverbrauch Zuhause und an der Fachhochschule}{2}{}%
+\contentsline {subsection}{\numberline {3.6}E-Auto vs Verbrenner}{2}{}%
+\contentsline {section}{\numberline {4}Zeitmanagement}{2}{}%
+\contentsline {subsection}{\numberline {4.1}Zeitmanagement im Homeoffice}{2}{}%
+\contentsline {subsection}{\numberline {4.2}Zeitmanagement beim Pendeln}{2}{}%
+\contentsline {subsection}{\numberline {4.3}Eigene Erfahrungen}{2}{}%
+\contentsline {section}{\numberline {5}Zusammenfassung}{3}{}%
+\contentsline {section}{\numberline {6}Fazit}{3}{}%
+\contentsline {section}{\numberline {7}Feedback der Gruppenmitglieder}{3}{}%
+\contentsline {subsection}{\numberline {7.1}Alexander Widera}{3}{}%
+\contentsline {subsection}{\numberline {7.2}Fabian Waltermann}{3}{}%
+\contentsline {subsection}{\numberline {7.3}Zoe Günther}{3}{}%
+\contentsline {section}{\numberline {8}Quellenverzeichnis}{4}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
