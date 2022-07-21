@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.6)  18 JUL 2022 15:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.6)  21 JUL 2022 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -402,17 +402,17 @@ LaTeX Font Info:    Trying to load font information for TS1+cmss on input line
  (C:\Users\Zoe\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-[2] [3]
-Overfull \hbox (12.397pt too wide) in paragraph at lines 95--96
-[]\OT1/cmr/m/n/12 https://www.geeksforgeeks.org/python-program-for-longest-comm
-on-subsequence/ 
+[2] [3] [4]
+Overfull \hbox (3.32349pt too wide) in paragraph at lines 105--106
+[]\OT1/cmr/m/n/12 https://www.staedtetag.de/publikationen/weitere-publikationen
+/barrierefreiheit-
  []
 
-[4] (Ausarbeitung.aux) ) 
+[5] (Ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
  7413 strings out of 478582
  144780 string characters out of 2845289
- 594163 words of memory out of 3000000
+ 595163 words of memory out of 3000000
  25540 multiletter control sequences out of 15000+600000
  476807 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -425,9 +425,9 @@ TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Zoe/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Zoe/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Zoe/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Ausarbeitung.pdf (6 pages, 85584 bytes).
+Output written on Ausarbeitung.pdf (7 pages, 90237 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 62 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -7,21 +7,22 @@
 \contentsline {subsection}{\numberline {3.1}Energieverbrauch beim Pendeln}{1}{}%
 \contentsline {subsubsection}{\numberline {3.1.1}ÖPNV Infrastruktur}{1}{}%
 \contentsline {subsubsection}{\numberline {3.1.2}9€ Ticket}{2}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Vergleich Energieverbrauch ÖPNV und PKW}{2}{}%
 \contentsline {subsection}{\numberline {3.2}Energieverbrauch im Homeoffice}{2}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}eigener Energieverbrauch}{2}{}%
-\contentsline {subsection}{\numberline {3.3}Gas- und Ölimport Abhängigkeit}{2}{}%
-\contentsline {subsection}{\numberline {3.4}Gasmangel}{2}{}%
-\contentsline {subsection}{\numberline {3.5}Energieverbrauch Zuhause und an der Fachhochschule}{2}{}%
+\contentsline {subsection}{\numberline {3.3}Energieverbrauch an der Fachhochschule}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Gas- und Ölimport Abhängigkeit}{2}{}%
+\contentsline {subsection}{\numberline {3.5}Gasmangel}{2}{}%
 \contentsline {subsection}{\numberline {3.6}E-Auto vs Verbrenner}{2}{}%
 \contentsline {section}{\numberline {4}Zeitmanagement}{2}{}%
 \contentsline {subsection}{\numberline {4.1}Zeitmanagement im Homeoffice}{2}{}%
-\contentsline {subsection}{\numberline {4.2}Zeitmanagement beim Pendeln}{2}{}%
-\contentsline {subsection}{\numberline {4.3}Eigene Erfahrungen}{2}{}%
-\contentsline {section}{\numberline {5}Zusammenfassung}{3}{}%
-\contentsline {section}{\numberline {6}Fazit}{3}{}%
-\contentsline {section}{\numberline {7}Feedback der Gruppenmitglieder}{3}{}%
-\contentsline {subsection}{\numberline {7.1}Alexander Widera}{3}{}%
-\contentsline {subsection}{\numberline {7.2}Fabian Waltermann}{3}{}%
-\contentsline {subsection}{\numberline {7.3}Zoe Günther}{3}{}%
-\contentsline {section}{\numberline {8}Quellenverzeichnis}{4}{}%
+\contentsline {subsection}{\numberline {4.2}Zeitmanagement beim Pendeln}{3}{}%
+\contentsline {subsection}{\numberline {4.3}Eigene Erfahrungen}{3}{}%
+\contentsline {section}{\numberline {5}Zusammenfassung}{4}{}%
+\contentsline {section}{\numberline {6}Fazit}{4}{}%
+\contentsline {section}{\numberline {7}Feedback der Gruppenmitglieder}{4}{}%
+\contentsline {subsection}{\numberline {7.1}Alexander Widera}{4}{}%
+\contentsline {subsection}{\numberline {7.2}Fabian Waltermann}{4}{}%
+\contentsline {subsection}{\numberline {7.3}Zoe Günther}{4}{}%
+\contentsline {section}{\numberline {8}Quellenverzeichnis}{5}{}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
