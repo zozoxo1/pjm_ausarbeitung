@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.6)  21 JUL 2022 18:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.6.6)  27 JUL 2022 19:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -381,53 +381,53 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 \tf@toc=\write3
 \openout3 = `Ausarbeitung.toc'.
 
- [2]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+ [2] [1]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-[1]
+[2]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-69.
+71.
  (C:\Users\Zoe\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-[2] [3] [4]
-Overfull \hbox (3.32349pt too wide) in paragraph at lines 105--106
+[3] [4] [5] [6]
+Overfull \hbox (3.32349pt too wide) in paragraph at lines 114--115
 []\OT1/cmr/m/n/12 https://www.staedtetag.de/publikationen/weitere-publikationen
 /barrierefreiheit-
  []
 
-[5] (Ausarbeitung.aux) ) 
+[7] (Ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 7413 strings out of 478582
- 144780 string characters out of 2845289
- 595163 words of memory out of 3000000
- 25540 multiletter control sequences out of 15000+600000
- 476807 words of font info for 54 fonts, out of 8000000 for 9000
+ 7420 strings out of 478582
+ 144875 string characters out of 2845289
+ 594163 words of memory out of 3000000
+ 25547 multiletter control sequences out of 15000+600000
+ 476808 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,7n,106p,10609b,358s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Zoe\AppData\Local\MiKTeX\fonts/pk/ljfour/jkn
-appen/ec/dpi600\tcsx1200.pk> <C:\Users\Zoe\AppData\Local\MiKTeX\fonts/pk/ljfour
+appen/ec/dpi600\tcsx1440.pk> <C:\Users\Zoe\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Zoe/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Zoe/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Zoe/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Zoe/AppData/Local/
 Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Zoe/AppDa
 ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Ausarbeitung.pdf (7 pages, 90237 bytes).
+Output written on Ausarbeitung.pdf (9 pages, 92910 bytes).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
