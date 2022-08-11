@@ -12,17 +12,16 @@
 \contentsline {subsection}{\numberline {5.2}Energieverbrauch im Homeoffice}{5}{subsection.5.2}%
 \contentsline {subsection}{\numberline {5.3}Energieverbrauch an der Fachhochschule}{5}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}Gas- und Ölimport Abhängigkeit}{5}{subsection.5.4}%
-\contentsline {subsection}{\numberline {5.5}Gasmangel}{5}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.5}Gasmangel}{6}{subsection.5.5}%
 \contentsline {subsection}{\numberline {5.6}E-Auto vs Verbrenner}{6}{subsection.5.6}%
-\contentsline {section}{\numberline {6}Zeitmanagement}{6}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Zeitmanagement im Homeoffice}{6}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Zeitmanagement beim Pendeln}{6}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Eigene Erfahrungen}{7}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Zusammenfassung}{7}{section.7}%
-\contentsline {section}{\numberline {8}Fazit}{7}{section.8}%
-\contentsline {section}{\numberline {9}Feedback der Gruppenmitglieder}{7}{section.9}%
-\contentsline {subsection}{\numberline {9.1}Alexander Widera}{7}{subsection.9.1}%
-\contentsline {subsection}{\numberline {9.2}Fabian Waltermann}{8}{subsection.9.2}%
-\contentsline {subsection}{\numberline {9.3}Zoe Günther}{8}{subsection.9.3}%
-\contentsline {section}{\numberline {10}Quellenverzeichnis}{9}{section.10}%
+\contentsline {section}{\numberline {6}Zeitmanagement}{7}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Zeitmanagement im Homeoffice}{7}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Zeitmanagement beim Pendeln}{7}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Eigene Erfahrungen}{8}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Fazit}{8}{section.7}%
+\contentsline {section}{\numberline {8}Feedback der Gruppenmitglieder}{8}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Alexander Widera}{8}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Fabian Waltermann}{9}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Zoe Günther}{9}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Quellenverzeichnis}{10}{section.9}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
